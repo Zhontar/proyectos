@@ -38,4 +38,4 @@ print("El combate ha terminado")
 if vida_picachu > 0:
     print("Has ganado")
 else:
-    print("Has perdido")4
+    print("Has perdido")
